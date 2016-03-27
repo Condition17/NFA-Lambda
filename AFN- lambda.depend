@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1459034074 source:f:\fmi\semestrul 2\lfa\afn- lambda\main.cpp
+	<string.h>
+	<iostream>
+	<map>
+	<fstream>
+
+1459082439 source:f:\fmi\semestrul 2\lfa\afn- lambda2\main.cpp
+	<string.h>
+	<iostream>
+	<map>
+	<fstream>
+
